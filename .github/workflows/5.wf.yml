@@ -10,7 +10,7 @@ on:
       - synchronize
     branches:
       - main
-
+   
 jobs:
   echo:
     runs-on: ubuntu-latest
